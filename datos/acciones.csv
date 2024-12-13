@@ -1,0 +1,82 @@
+ventana_id,accion,coordenadas,fecha_hora
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:06
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:15:08
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:12
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:22
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:15:24
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:27
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:31
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:15:32
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:15:36
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:16:09
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:16:12
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:16:15
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:16:23
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:16:27
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:16:28
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:21:00
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:21:01
+RuneLite,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:21:04
+RuneLite,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:21:12
+RuneLite,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:21:14
+RuneLite,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:21:19
+RuneLite - Umbradeath,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:28:03
+RuneLite - Umbradeath,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:28:07
+RuneLite - Umbradeath,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:28:10
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:28:15
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:28:18
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:28:21
+RuneLite - Umbradeath,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:30:20
+RuneLite - Umbradeath,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:30:25
+RuneLite - Umbradeath,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:30:27
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:30:29
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(677), np.int64(512))",2024-12-13 14:30:31
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(709), np.int64(215))",2024-12-13 14:30:33
+RuneLite - Umbradeath,clic_imagen,"(np.int64(677), np.int64(215))",2024-12-13 14:34:41
+RuneLite - Umbradeath,clic_imagen,"(np.int64(665), np.int64(778))",2024-12-13 14:34:45
+RuneLite - Umbradeath,clic_imagen,"(np.int64(1288), np.int64(274))",2024-12-13 14:34:50
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1540), np.int64(480))",2024-12-13 14:34:54
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1540), np.int64(777))",2024-12-13 14:34:55
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1572), np.int64(480))",2024-12-13 14:34:59
+RuneLite - Umbradeath,clic_imagen,"(np.int64(1540), np.int64(480))",2024-12-13 14:36:06
+RuneLite - Umbradeath,clic_imagen,"(np.int64(1540), np.int64(777))",2024-12-13 14:36:07
+RuneLite - Umbradeath,clic_imagen,"(np.int64(1572), np.int64(480))",2024-12-13 14:36:09
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1540), np.int64(480))",2024-12-13 14:36:10
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1540), np.int64(777))",2024-12-13 14:36:11
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(1572), np.int64(480))",2024-12-13 14:36:13
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:36:44
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:36:49
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:36:50
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:36:54
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:36:55
+RuneLite - Umbradeath,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:36:58
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:37:08
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:37:12
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:37:14
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:37:15
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:37:16
+RuneLite - Umbradeath,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:37:18
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:37:43
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:37:44
+RuneLite - Umbradeath,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:37:49
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:37:53
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:37:55
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:37:57
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:38:16
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:38:18
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:38:20
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(225))",2024-12-13 14:38:23
+RuneLite - Umbradeath,clic_imagen,"(np.int64(697), np.int64(522))",2024-12-13 14:38:27
+RuneLite - Umbradeath,clic_imagen,"(np.int64(729), np.int64(225))",2024-12-13 14:38:30
+RuneLite - Umbradeath,clic_imagen,"(np.int64(675), np.int64(225))",2024-12-13 14:50:23
+RuneLite - Umbradeath,clic_imagen,"(np.int64(675), np.int64(522))",2024-12-13 14:50:25
+RuneLite - Umbradeath,clic_imagen,"(np.int64(707), np.int64(225))",2024-12-13 14:50:26
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(675), np.int64(225))",2024-12-13 14:50:37
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(675), np.int64(522))",2024-12-13 14:50:41
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(707), np.int64(225))",2024-12-13 14:50:43
+RuneLite - Umbradeath,clic_imagen,"(np.int64(675), np.int64(225))",2024-12-13 14:52:18
+RuneLite - Umbradeath,clic_imagen,"(np.int64(675), np.int64(522))",2024-12-13 14:52:21
+RuneLite - Umbradeath,clic_imagen,"(np.int64(707), np.int64(225))",2024-12-13 14:52:23
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(675), np.int64(225))",2024-12-13 14:52:30
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(675), np.int64(522))",2024-12-13 14:52:31
+RuneLite - Ibis Autumn,clic_imagen,"(np.int64(707), np.int64(225))",2024-12-13 14:52:33
